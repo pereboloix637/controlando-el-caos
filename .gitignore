@@ -1,0 +1,17 @@
+# Archivos de Eclipse
+.classpath
+.project
+.settings/
+
+# Carpeta de compilación
+bin/
+
+# Archivos temporales de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Archivos de librerías descargadas automáticamente (si usas Maven o Gradle)
+target/
