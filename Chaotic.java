@@ -1,6 +1,6 @@
 public class Chaotic {
     public static void main(String[] args) {
-        System.out.println("JESTER JESTER JESTER");
+        System.out.println("ChaotiCulator");
         int a = 10;
         int p = 5;
  
