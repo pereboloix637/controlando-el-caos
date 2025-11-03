@@ -1,6 +1,6 @@
 public class Chaotic {
     public static void main(String[] args) {
-        System.out.println("CALCULADORA");
+        System.out.println("CALCULAdora");
         int a = 10;
         int p = 5;
  
